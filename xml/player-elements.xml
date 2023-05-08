@@ -622,10 +622,10 @@
   <bitmap id="wasabi.scrollbar.vertical.right.hover" file="../Winamp Modern/window/scrollbars.png" x="60" y="26" h="17" w="13" gammagroup="Scrollbar Hover"/>
   <bitmap id="wasabi.scrollbar.vertical.right.pressed" file="../Winamp Modern/window/scrollbars.png" x="80" y="26" h="17" w="13" gammagroup="Scrollbar Buttons"/>
 
-  <bitmap id="wasabi.scrollbar.vertical.background" file="../Winamp Modern/window/scrollbars.png" x="0" y="0" w="13" h="17" />
-  <bitmap id="wasabi.scrollbar.vertical.background.top" file="../Winamp Modern/window/scrollbars.png" x="0" y="0" w="13" h="17" />
-  <bitmap id="wasabi.scrollbar.vertical.background.middle" file="../Winamp Modern/window/scrollbars.png" x="0" y="0" w="13" h="17" />
-  <bitmap id="wasabi.scrollbar.vertical.background.bottom" file="../Winamp Modern/window/scrollbars.png" x="0" y="0" w="13" h="17" />
+  <bitmap id="wasabi.scrollbar.vertical.background" file="../Winamp Modern/window/scrollbars.png" x="0" y="0" w="13" h="17" gammagroup="Scrollbar Buttons"/>
+  <bitmap id="wasabi.scrollbar.vertical.background.top" file="../Winamp Modern/window/scrollbars.png" x="0" y="0" w="13" h="17" gammagroup="Scrollbar Buttons"/>
+  <bitmap id="wasabi.scrollbar.vertical.background.middle" file="../Winamp Modern/window/scrollbars.png" x="0" y="0" w="13" h="17" gammagroup="Scrollbar Buttons"/>
+  <bitmap id="wasabi.scrollbar.vertical.background.bottom" file="../Winamp Modern/window/scrollbars.png" x="0" y="0" w="13" h="17" gammagroup="Scrollbar Buttons"/>
 
   <bitmap id="wasabi.scrollbar.horizontal.button" file="../Winamp Modern/window/scrollbars.png" x="12" y="70" h="13" w="31" gammagroup="Scrollbar Buttons"/>
   <bitmap id="wasabi.scrollbar.horizontal.button.hover" file="../Winamp Modern/window/scrollbars.png" x="12" y="70" h="13" w="31" gammagroup="Scrollbar Hover"/>
@@ -639,10 +639,10 @@
   <bitmap id="wasabi.scrollbar.horizontal.right.hover" file="../Winamp Modern/window/scrollbars.png" x="26" y="110" h="13" w="17" gammagroup="Scrollbar Hover"/>
   <bitmap id="wasabi.scrollbar.horizontal.right.pressed" file="../Winamp Modern/window/scrollbars.png" x="26" y="130" h="13" w="17" gammagroup="Scrollbar Buttons"/>
 
-  <bitmap id="wasabi.scrollbar.horizontal.background" file="../Winamp Modern/window/scrollbars.png" x="18" y="50" w="17" h="13" />
-  <bitmap id="wasabi.scrollbar.horizontal.background.left" file="../Winamp Modern/window/scrollbars.png" x="18" y="50" w="17" h="13" />
-  <bitmap id="wasabi.scrollbar.horizontal.background.middle" file="../Winamp Modern/window/scrollbars.png" x="18" y="50" w="17" h="13" />
-  <bitmap id="wasabi.scrollbar.horizontal.background.right" file="../Winamp Modern/window/scrollbars.png" x="18" y="50" w="17" h="13" />
+  <bitmap id="wasabi.scrollbar.horizontal.background" file="../Winamp Modern/window/scrollbars.png" x="18" y="50" w="17" h="13" gammagroup="Scrollbar Buttons"/>
+  <bitmap id="wasabi.scrollbar.horizontal.background.left" file="../Winamp Modern/window/scrollbars.png" x="18" y="50" w="17" h="13" gammagroup="Scrollbar Buttons"/>
+  <bitmap id="wasabi.scrollbar.horizontal.background.middle" file="../Winamp Modern/window/scrollbars.png" x="18" y="50" w="17" h="13" gammagroup="Scrollbar Buttons"/>
+  <bitmap id="wasabi.scrollbar.horizontal.background.right" file="../Winamp Modern/window/scrollbars.png" x="18" y="50" w="17" h="13" gammagroup="Scrollbar Buttons"/>
 
 <!-- Generic Button -->
   <bitmap id="wasabi.button.label.arrow.up" file="../Winamp Modern/window/window-elements.png" x="137" y="75" h="4" w="7" gammagroup="Button Fonts"/>
